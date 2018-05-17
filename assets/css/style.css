@@ -1,0 +1,31 @@
+.post-date{
+  color:blue;
+  background: #f4f4f4;
+  padding: 4px;
+  margin: 3px 0;
+  display:block;
+}
+.post-thumb{
+  width: 100%;
+}
+
+.pagination-links{
+  margin: 30px 0;
+  color: blue;
+}
+.pagination-link strong{
+  padding: 8px 13px;
+  margin: 5px;
+  background: #8cd2bd;
+  border: 1px #ccc solid;
+}
+a.pagination-link{
+  padding: 8px 13px;
+  margin: 2px;
+  background: #8cd2bd;
+  border: 1px #ccc solid;
+}
+
+.cat-delete{
+  display: inline;
+}
